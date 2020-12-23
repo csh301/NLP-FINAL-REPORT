@@ -20,8 +20,8 @@ KOELECTRA 모델 사용(오픈소스 이용)
 
 
 - <b>데이터 출처</b> 
-1.<b>[NSMC 데이터셋]</b>[https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
-2.<b>[테스트파일]</b> https://www.kaggle.com/c/korean-sa-competition-dfe610/data
+<b>[NSMC 데이터셋]</b>[https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
+<b>[테스트파일]</b> https://www.kaggle.com/c/korean-sa-competition-dfe610/data
 
 
 - <b>참고문헌 및 코드</b> 
