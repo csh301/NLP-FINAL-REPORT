@@ -1,5 +1,5 @@
 # NLP for Digital Finance Engineering Final Test
-## (NSMC&Friends 감정분석) 
+## (NSMC & Friends Dataset 감정분석) 
 
 ### 0. 실행 환경
 - google `colab pro` 에서 진행(제공 gpu 사용)
