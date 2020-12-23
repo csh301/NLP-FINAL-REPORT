@@ -31,7 +31,7 @@
 <t>`Friends(BERT).ipynb` 
     <t>[참고 : https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)
 
-- <b>BERT&ELECTRA 모델 이용 - 전처리 방식 추가, ELECTRA BERT 성능비교로 사용</b>  
+- <b>BERT&ELECTRA 모델 이용 - 전처리 방식 추가, ELECTRA VS BERT 성능비교 용도로 사용</b>  
 <t>`Friends_BERT&ELECTRA_Trial.ipynb`  
 <t>[참고 : https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)
     
