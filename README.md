@@ -19,11 +19,13 @@ KOELECTRA 모델 사용(오픈소스 이용)
 
 
 - <b>데이터 출처</b>  
+<t>https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing
 <t>[https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
 
 
-- <b>참고문헌 및 코드</b>    
-<t>[KoELECTRA 참고 소스 코드: https://blog.naver.com/horajjan/221739630055](https://blog.naver.com/horajjan/221739630055)
+- <b>참고문헌 및 코드</b> 
+<t>[박장원님의 KoElectra-small 사용] https://github.com/monologg/KoELECTRA
+<t>[KoELECTRA 참고 소스 코드]: https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing
 
 <br>
 
