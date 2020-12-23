@@ -1,8 +1,8 @@
-# NLP PROJECT 10조
+# NLP for Digital Finance Engineering Final Test
 
 ### 0. 실행 환경
-- 클라우드 서버와 GPU를 제공받는 google `colab` 에서 진행.
-- 런타임 유형 하드웨어 가속기 : GPU
+- google `colab pro` 에서 진행(제공 gpu 사용)
+- 런타임 유형 하드웨어 가속기 : GPU(tesla v100 or p100)
 - `tensorflow`와 `pytorch` 모두 이용
 
 
