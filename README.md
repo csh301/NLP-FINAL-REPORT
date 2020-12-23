@@ -45,9 +45,11 @@ ELECTRA 모델 사용(오픈소스 이용)
 <t>2.  이후 모든 셀 실행을 통해 <b>1) 데이터 전처리, 2) 모델 구현 및 학습, 3) test set 결과 확인 및 csv 파일 변환</b> 가능.
 
 
-- <b>데이터 출처</b>  
-<t>[Friends 데이터셋][http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)
-<t>[테스트파일]  https://www.kaggle.com/c/english-sa-competition-dfe610/data
+- <b>데이터 출처</b>
+
+   <t>[Friends 데이터셋][http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)
+   
+   <t>[테스트파일]  https://www.kaggle.com/c/english-sa-competition-dfe610/data
 
 
 - <b>참고문헌 및 코드</b>  
