@@ -18,14 +18,14 @@ KOELECTRA 모델 사용(오픈소스 이용)
 <t>1.  모든 셀 실행을 통해 <b>1) 데이터 전처리, 2) 모델 구현 및 학습, 3) test set 결과 확인 및 csv 파일 변환</b> 가능.
 
 
-- <b>데이터 출처</b>  
-[NSMC 데이터셋][https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
-[테스트파일] https://www.kaggle.com/c/korean-sa-competition-dfe610/data
+- <b>데이터 출처</b> 
+ [NSMC 데이터셋][https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
+ [테스트파일] https://www.kaggle.com/c/korean-sa-competition-dfe610/data
 
 
 - <b>참고문헌 및 코드</b> 
-[박장원님의 KoElectra-small 사용] https://github.com/monologg/KoELECTRA
-[KoELECTRA 참고 소스 코드]: https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing
+<t>[박장원님의 KoElectra-small 사용] https://github.com/monologg/KoELECTRA
+<t>[KoELECTRA 참고 소스 코드]: https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing
 
 <br>
 
@@ -36,7 +36,7 @@ KOELECTRA 모델 사용(오픈소스 이용)
 ELECTRA 모델 사용(오픈소스 이용)
 
 - <b>실행 방법</b>  
-<t>1.  `friends_train.json`, `friends_dev.json`, `friends_test.json`, 'en_data.csv'를 압축한 파일 `Friends.zip`을 업로드한 후 unzip 실행  
+<t>1.  `friends_train.json`, `friends_dev.json`, `friends_test.json`, `en_data.csv`를 압축한 파일 `Friends.zip`을 업로드한 후 unzip 실행  
 <t>2.  이후 모든 셀 실행을 통해 <b>1) 데이터 전처리, 2) 모델 구현 및 학습, 3) test set 결과 확인 및 csv 파일 변환</b> 가능.
 
 
