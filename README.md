@@ -2,7 +2,8 @@
 
 ### 0. 실행 환경
 - google `colab pro` 에서 진행(제공 gpu 사용)
-- 런타임 유형 하드웨어 가속기 : GPU(tesla v100 or p100)
+- 런타임 유형 하드웨어 가속기 : GPU(tesla T4 v100 or p100)
+- 런타임 구성 : 고용량 램 25.51GB
 - `tensorflow`와 `pytorch` 모두 이용
 
 
@@ -10,8 +11,8 @@
 
 ### 1. NSMC 네이버 영화 리뷰 데이터 감정 분석
 
-`NSMC_KOELECTRA.ipynb`  
-KOELECTRA 모델 사용
+`NSMC_KoElectra_v6.ipynb`  
+KOELECTRA 모델 사용(오픈소스 이용)
 
 - <b>실행 방법</b>  
 <t>1.  모든 셀 실행을 통해 <b>1) 데이터 전처리, 2) 모델 구현 및 학습, 3) test set 결과 확인 및 csv 파일 변환</b> 가능.
@@ -29,11 +30,11 @@ KOELECTRA 모델 사용
 
 ### 2. Friends 영화 대본 데이터 감정 분석
 
-`frineds_electra.ipynb`  
-ELECTRA 모델 사용
+`Friends(Electra).ipynb`  
+ELECTRA 모델 사용(오픈소스 이용)
 
 - <b>실행 방법</b>  
-<t>1.  `friends_train.json`, `friends_dev.json`, `friends_test.json`을 압축한 파일 `Friends.zip`을 업로드한 후 unzip 실행  
+<t>1.  `friends_train.json`, `friends_dev.json`, `friends_test.json`, 'en_data.csv'를 압축한 파일 `Friends.zip`을 업로드한 후 unzip 실행  
 <t>2.  이후 모든 셀 실행을 통해 <b>1) 데이터 전처리, 2) 모델 구현 및 학습, 3) test set 결과 확인 및 csv 파일 변환</b> 가능.
 
 
