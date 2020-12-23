@@ -26,7 +26,18 @@
 - <b>LSTM 모델 이용</b>  
 <t>`Friends(LSTM).ipynb`   
     <t>[참고 : https://github.com/cjmp1/nlp-sentiment-analysis/tree/master/ENG](https://github.com/cjmp1/nlp-sentiment-analysis/tree/master/ENG)
+        
+- <b>BERT 모델 이용</b>  
+<t>`Friends(BERT).ipynb` 
+    <t>[참고 : https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)
 
 - <b>BERT&ELECTRA 모델 이용</b>  
 <t>`Friends_BERT&ELECTRA_Trial.ipynb`  
 <t>[참고 : https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)
+    
+ - <b> References</b>  
+https://myjamong.tistory.com/77
+
+http://aidev.co.kr/chatbotdeeplearning/8709
+
+https://neurowhai.tistory.com/294
