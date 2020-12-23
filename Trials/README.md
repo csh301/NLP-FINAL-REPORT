@@ -21,8 +21,9 @@
 
 ### 2. Friends 감정 분석 시도 코드
 
-- <b>LSTM 모델 이용</b>
-<t>[참고 : https://github.com/cjmp1/nlp-sentiment-analysis/tree/master/ENG](https://github.com/cjmp1/nlp-sentiment-analysis/tree/master/ENG)
+- <b>LSTM 모델 이용</b>  
+<t>`Friends(LSTM).ipynb`   
+    <t>[참고 : https://github.com/cjmp1/nlp-sentiment-analysis/tree/master/ENG](https://github.com/cjmp1/nlp-sentiment-analysis/tree/master/ENG)
 
 - <b>BERT&ELECTRA 모델 이용</b>  
 <t>`Friends_BERT&ELECTRA_Trial.ipynb`  
