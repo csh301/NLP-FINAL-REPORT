@@ -3,7 +3,7 @@
 
 ### 0. 실행 환경
 - google `colab pro` 에서 진행(제공 gpu 사용)
-- 런타임 유형 하드웨어 가속기 : GPU(tesla T4 v100 or p100)
+- 런타임 유형 하드웨어 가속기 : GPU(`tesla v100 or p100`)
 - 런타임 구성 : 고용량 램 25.51GB
 - `tensorflow`와 `pytorch` 모두 이용
 
@@ -20,8 +20,8 @@ KOELECTRA 모델 사용(오픈소스 이용)
 
 
 - <b>데이터 출처</b> 
- [NSMC 데이터셋][https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
- [테스트파일] https://www.kaggle.com/c/korean-sa-competition-dfe610/data
+<b> [NSMC 데이터셋][https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)</b>
+ <b>[테스트파일] https://www.kaggle.com/c/korean-sa-competition-dfe610/data</b>
 
 
 - <b>참고문헌 및 코드</b> 
