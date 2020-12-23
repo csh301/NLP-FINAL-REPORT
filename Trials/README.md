@@ -12,8 +12,10 @@
 <t>`NSMC(KoBERT BASE).ipynb`  
 <t>`NSMC(KOBERT LARGE) SanghunCho.ipynb`  
 <t>[참고] : https://github.com/SKTBrain/KoBERT](https://github.com/SKTBrain/KoBERT)
-<t>- Base Model Colab 링크- https://colab.research.google.com/gist/Beomi/c26cf67f9fb717d81141c579635816b2/kcbert-nsmc.ipynb
-<t>- Large Model Colab 링크(GPU버전) - https://colab.research.google.com/drive/1dFC0FL-521m7CL_PSd8RLKq67jgTJVhL?usp=sharing
+    
+    <t>- Base Model Colab 링크- https://colab.research.google.com/gist/Beomi/c26cf67f9fb717d81141c579635816b2/kcbert-nsmc.ipynb
+    
+    <t>- Large Model Colab 링크(GPU버전) - https://colab.research.google.com/drive/1dFC0FL-521m7CL_PSd8RLKq67jgTJVhL?usp=sharing
 
 - <b>LSTM 모델 이용</b>  
 <t>`NSMC(LSTM).ipynb`  
