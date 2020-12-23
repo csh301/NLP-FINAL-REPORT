@@ -1,4 +1,4 @@
-# NLP for Digital Finance Engineering Final Test
+# NLP for Digital Finance Engineering Final Test(NSMC&Frieds 감정분석)
 
 ### 0. 실행 환경
 - google `colab pro` 에서 진행(제공 gpu 사용)
