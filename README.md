@@ -2,7 +2,7 @@
 ## (NSMC & Friends Dataset 감정분석) 
 
 ### 0. 실행 환경
-- google `colab pro` 에서 진행(제공 gpu 사용)
+- google `colab pro` 에서 진행(클라우드 제공 gpu 사용)
 - 런타임 유형 하드웨어 가속기 : GPU(`tesla v100 or p100`)
 - 런타임 구성 : 고용량 램 25.51GB
 - `tensorflow`와 `pytorch` 모두 이용
