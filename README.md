@@ -46,7 +46,8 @@ ELECTRA 모델 사용(오픈소스 이용)
 
 
 - <b>데이터 출처</b>  
-<t>[http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)
+<t>[Friends 데이터셋][http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)
+<t>[테스트파일]  https://www.kaggle.com/c/english-sa-competition-dfe610/data
 
 
 - <b>참고문헌 및 코드</b>  
