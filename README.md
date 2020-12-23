@@ -20,15 +20,17 @@ KOELECTRA 모델 사용(오픈소스 이용)
 
 
 - <b>데이터 출처</b> 
+
    <t>[NSMC 데이터셋][https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
+   
    <t>[테스트파일]</b> https://www.kaggle.com/c/korean-sa-competition-dfe610/data
 
-
+  
 - <b>참고문헌 및 코드</b> 
 
-<t>[박장원님의 KoElectra-small 사용] https://github.com/monologg/KoELECTRA
-
-<t>[KoELECTRA 참고 소스 코드]: https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing
+   <t>[박장원님의 KoElectra-small 사용] https://github.com/monologg/KoELECTRA
+   
+   <t>[KoELECTRA 참고 소스 코드]: https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing
 
 <br>
 
