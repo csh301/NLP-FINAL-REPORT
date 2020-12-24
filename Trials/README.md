@@ -47,9 +47,9 @@
 
 <t>LDA GENSIM 모델(한글)
     
-     `KOR LDA v2.ipynb`  
+<t>`KOR LDA v2.ipynb`  
     
-     `korea_LDA(kodata)v1.ipynb`  
+<t>`korea_LDA(kodata)v1.ipynb`  
          
    [참고 : https://happy-obok.tistory.com/5](https://happy-obok.tistory.com/5)
     
