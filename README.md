@@ -61,10 +61,15 @@ ELECTRA 모델 사용(오픈소스 이용)
 
 ### 3. LDA 토픽모델링 감정분석 
 `LDA_Topicmodeling(KOR).ipynb`  
+
 Gensim LDA모델 이용(오픈소스 여러개 참조 변형)
+
 [모델구축 관련 참조 : 트위터자료 토픽모델링 https://happy-obok.tistory.com/5](https://happy-obok.tistory.com/5)
+
 [분석모델 관련 참조 : 게임리뷰데이터분석 https://github.com/Jungjaeyoon/gamereviewTextmining](https://github.com/Jungjaeyoon/gamereviewTextmining)
+
 [시각화관련 참조 : https://joyhong.tistory.com/138#topic=0&lambda=1&term=](https://joyhong.tistory.com/138#topic=0&lambda=1&term=)
+
 
 ### 4. 다른 모델 및 학습방법 시도 
 
