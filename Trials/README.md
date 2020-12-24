@@ -41,3 +41,17 @@
     http://aidev.co.kr/chatbotdeeplearning/8709
 
     https://neurowhai.tistory.com/294
+    <t>
+    
+### 3.LDA 토픽모델링 관련
+<t>LDA GENSIM 모델
+    https://joyhong.tistory.com/138#topic=0&lambda=1&term=
+    
+     - <b> References</b>  
+   https://happy-obok.tistory.com/5
+   https://wikidocs.net/30708
+   http://bigdata.emforce.co.kr/index.php/2020072401/
+   https://github.com/Jungjaeyoon/gamereviewTextmining
+    <t>
+
+
