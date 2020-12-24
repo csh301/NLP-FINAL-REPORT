@@ -46,12 +46,13 @@
 ### 3.LDA 토픽모델링 관련
 
 <t>LDA GENSIM 모델(한글)
+    
     <t>`KOR LDA v2.ipynb`  
     <t>`korea_LDA(kodata)v1.ipynb`  
         
-    https://happy-obok.tistory.com/5
+   [참고 : https://happy-obok.tistory.com/5](https://happy-obok.tistory.com/5)
     
-    https://joyhong.tistory.com/138#topic=0&lambda=1&term=
+   [참고 : https://joyhong.tistory.com/138#topic=0&lambda=1&term=](https://joyhong.tistory.com/138#topic=0&lambda=1&term=)
     
  - <b> References</b>   
    https://happy-obok.tistory.com/5
