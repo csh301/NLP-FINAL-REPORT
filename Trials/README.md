@@ -50,9 +50,13 @@
     
  - <b> References</b>   
    https://happy-obok.tistory.com/5
+   
    https://wikidocs.net/30708
+   
    http://bigdata.emforce.co.kr/index.php/2020072401/
+   
    https://github.com/Jungjaeyoon/gamereviewTextmining
+   
     <t>
 
 
