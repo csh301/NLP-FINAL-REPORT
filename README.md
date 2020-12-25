@@ -73,7 +73,7 @@ Gensim LDA모델 이용(오픈소스 여러개 참조 변형)
 
 ### 4. 다른 모델 및 학습방법 시도 
 
-<t>    [※trials readme로 이동※](https://github.com/csh301/NLP-FINAL-REPORT/tree/main/Trials)  
+<t>    [※중요※trials readme로 이동](https://github.com/csh301/NLP-FINAL-REPORT/tree/main/Trials)  
 
 - <b>참고 문헌 및 코드</b>  
 <t>[LSTM 소스 코드 :  https://wikidocs.net/44249](https://wikidocs.net/44249)  
